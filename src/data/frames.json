@@ -1,0 +1,58 @@
+[
+  {
+    "id": "thin-black",
+    "name": "Thin Black Frame",
+    "profileWidthMm": 15,
+    "custom": false,
+    "color": "#2d2d2d"
+  },
+  {
+    "id": "medium-wood",
+    "name": "Medium Wood Frame",
+    "profileWidthMm": 30,
+    "custom": false,
+    "color": "#8b4513"
+  },
+  {
+    "id": "thick-gold",
+    "name": "Thick Gold Frame",
+    "profileWidthMm": 50,
+    "custom": false,
+    "color": "#ffd700"
+  },
+  {
+    "id": "slim-white",
+    "name": "Slim White Frame",
+    "profileWidthMm": 10,
+    "custom": false,
+    "color": "#ffffff"
+  },
+  {
+    "id": "wide-silver",
+    "name": "Wide Silver Frame",
+    "profileWidthMm": 40,
+    "custom": false,
+    "color": "#c0c0c0"
+  },
+  {
+    "id": "ornate-bronze",
+    "name": "Ornate Bronze Frame",
+    "profileWidthMm": 60,
+    "custom": false,
+    "color": "#cd7f32"
+  },
+  {
+    "id": "minimal-gray",
+    "name": "Minimal Gray Frame",
+    "profileWidthMm": 20,
+    "custom": false,
+    "color": "#808080"
+  },
+  {
+    "id": "custom",
+    "name": "Custom Frame",
+    "profileWidthMm": 25,
+    "custom": true,
+    "color": "#666666"
+  }
+]
